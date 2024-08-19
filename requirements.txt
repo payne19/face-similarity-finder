@@ -1,2 +1,3 @@
 deepface
 streamlit
+opencv-python
