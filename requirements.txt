@@ -2,3 +2,4 @@ deepface
 streamlit
 opencv-python-headless
 tf-keras
+Pillow
