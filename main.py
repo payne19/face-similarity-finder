@@ -2,6 +2,7 @@ import streamlit as st
 from deepface import DeepFace
 import tempfile
 import os
+import cv2
 
 st.title("Face Similarity Finder")
 
