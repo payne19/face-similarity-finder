@@ -1,4 +1,4 @@
 deepface
 streamlit
 opencv-python
-libgl1
+libgl1-mesa-glx
