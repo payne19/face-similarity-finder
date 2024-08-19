@@ -1,2 +1,2 @@
-deepfake
+deepface
 streamlit
